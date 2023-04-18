@@ -1,0 +1,35 @@
+{
+  "name": "Saved Souls #1972",
+  "description": "The ultimate NFT project for those who live and breathe the crypto world. Discover the digital representations of your Saved Soul and be a part of a community that truly understands the highs and lows of the Web3 journey.",
+  "image": "ipfs://bafkreihecmk4a4x3mkqenuu5lxutzv4uppris7wvtdt73ivoprxujvubwy",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Ring",
+      "value": "Plain Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Fair"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sweater Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "What U Say?"
+    },
+    {
+      "trait_type": "Hats n Hair",
+      "value": "Curls Red"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Scream"
+    }
+  ]
+}

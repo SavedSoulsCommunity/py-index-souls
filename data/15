@@ -1,0 +1,35 @@
+{
+  "name": "Saved Souls #15",
+  "description": "The ultimate NFT project for those who live and breathe the crypto world. Discover the digital representations of your Saved Soul and be a part of a community that truly understands the highs and lows of the Web3 journey.",
+  "image": "ipfs://bafkreide4jpvrbvveuxiruxcg22264d7q3rknuu37swixrafu2wrfgy7tm",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Ring",
+      "value": "Toxic"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Fair"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classy"
+    },
+    {
+      "trait_type": "Hats n Hair",
+      "value": "Sporty Band Black n Blonde"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Unsettled"
+    }
+  ]
+}

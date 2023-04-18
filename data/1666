@@ -1,0 +1,35 @@
+{
+  "name": "Saved Souls #1666",
+  "description": "The ultimate NFT project for those who live and breathe the crypto world. Discover the digital representations of your Saved Soul and be a part of a community that truly understands the highs and lows of the Web3 journey.",
+  "image": "ipfs://bafkreifakyxjsxnswqoqnb36rvtp2ffmsgtnecm3osvgxtopr5ltvg5wyu",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Ring",
+      "value": "Deep Sea"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Fair"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sweater Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wide Eyed"
+    },
+    {
+      "trait_type": "Hats n Hair",
+      "value": "Reef"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ]
+}

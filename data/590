@@ -1,0 +1,35 @@
+{
+  "name": "Saved Souls #590",
+  "description": "The ultimate NFT project for those who live and breathe the crypto world. Discover the digital representations of your Saved Soul and be a part of a community that truly understands the highs and lows of the Web3 journey.",
+  "image": "ipfs://bafkreibutvfqn7gla2bjvz4a2skj3qoryhgb2l5bsw2mcjwpp6ww6fzpf4",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Ring",
+      "value": "Plain Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Navy Sweater"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hipster"
+    },
+    {
+      "trait_type": "Hats n Hair",
+      "value": "Captain White n Blonde"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Scream"
+    }
+  ]
+}
